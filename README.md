@@ -4,11 +4,11 @@ This is a list of things i know about angular and unknowns. Also when i learn so
 - [x] Reactive forms
 - [x] @Input / @Output
 - [x] Angular CLI
-- [] more...
+- [ ] more...
 #### Third party libs
 - [x] material2
 - [x] angularfire2
-- [] more...
+- [ ] more...
 
 
 #### Ngrx
@@ -18,11 +18,11 @@ This is a list of things i know about angular and unknowns. Also when i learn so
 - [x] Effects
 - [x] Actions
 - [x] Reducers
-- [] more... 
+- [ ] more... 
 
  
 #### Courses
 
-## This file is unber construction.
+## This file is under construction.
 
 
